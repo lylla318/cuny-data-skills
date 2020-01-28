@@ -17,8 +17,8 @@ moiz.syed@journalism.cuny.edu
 You'll find details on all homework assignments [here](https://drive.google.com/drive/folders/12jLXBx0nIaFoZ1SwMELVgX2pDd0rvKv_?usp=sharing).
 
 ## Class notes
-Remember that you have the option to upload your notes to the class Google Drive if you'd like to.
-https://drive.google.com/drive/folders/1mvTyzZaxYVgotBusw9S7ivgjbanZvi8g?usp=sharing
+Remember that you have the option to upload your notes to the [notes folder](https://drive.google.com/drive/folders/1mvTyzZaxYVgotBusw9S7ivgjbanZvi8g?usp=sharing) of the class Google Drive if you'd like to.
+
 
 ## Classes
 1. **Monday, January 27: Intro** 
