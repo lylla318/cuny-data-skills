@@ -2,15 +2,29 @@
 
 ## Who are we?
 Lylla Younes, news applications developer with [ProPublica](https://propublica.org)
+lylla.younes@journalism.cuny.edu
+
 Moiz Syed, news applications developer with [ProPublica](https://propublica.org)
+moiz.syed@journalism.cuny.edu
 
 ## Syllabus
-*[View the syllabus slides here.](https://docs.google.com/document/d/16wPwjxh24eS4Rc6Qkr9Uvz3ZYy3K4vqDErlMJUArd5M/edit?usp=sharing)
+[View the syllabus slides here.](https://docs.google.com/document/d/16wPwjxh24eS4Rc6Qkr9Uvz3ZYy3K4vqDErlMJUArd5M/edit?usp=sharing)
+
+## Class Google Drive Folder
+
+
+## Homework
+You'll find details on all homework assignments [here](https://drive.google.com/drive/folders/12jLXBx0nIaFoZ1SwMELVgX2pDd0rvKv_?usp=sharing).
+
+## Class notes
+Remember that you have the option to upload your notes to the class Google Drive if you'd like to.
+https://drive.google.com/drive/folders/1mvTyzZaxYVgotBusw9S7ivgjbanZvi8g?usp=sharing
 
 ## Classes
 1. **Monday, January 27: Intro** 
 
-	* [slides](https://docs.google.com/presentation/d/1U1TU5_5LrERjizLrjQ1mQgbo4EhoBLjSUAW1MAzPYHE/edit?usp=sharing)
+	* [slides](https://docs.google.com/presentation/d/1wrCd2-oADXHgM0mgXoWSzt1_TIdes6OJKp_Mm3ZSksE/edit?usp=sharing)
+	* [homework 1](https://docs.google.com/document/d/1Z2mofzEHnra1WO045BS2eLb6RI91jfoSIjagBqWI3Vc/edit?usp=sharing)
 
 
 	
