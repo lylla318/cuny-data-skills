@@ -1,10 +1,9 @@
 # Data Skills, CUNY Social Journalism, Spring 2020
 
 ## Who are we?
-Lylla Younes, news applications developer with [ProPublica](https://propublica.org)
-lylla.younes@journalism.cuny.edu
+Lylla Younes, news applications developer with [ProPublica](https://propublica.org). Reach me at lylla.younes@journalism.cuny.edu
 
-Moiz Syed, news applications developer with [ProPublica](https://propublica.org)
+Moiz Syed, news applications developer with [ProPublica](https://propublica.org). Reach me at
 moiz.syed@journalism.cuny.edu
 
 ## Syllabus
