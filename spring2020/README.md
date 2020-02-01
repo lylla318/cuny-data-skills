@@ -7,7 +7,7 @@ Moiz Syed, news applications developer with [ProPublica](https://propublica.org)
 moiz.syed@journalism.cuny.edu
 
 ## Syllabus
-[View the syllabus slides here.](https://docs.google.com/document/d/16wPwjxh24eS4Rc6Qkr9Uvz3ZYy3K4vqDErlMJUArd5M/edit?usp=sharing)
+[View the syllabus here.](https://docs.google.com/document/d/16wPwjxh24eS4Rc6Qkr9Uvz3ZYy3K4vqDErlMJUArd5M/edit?usp=sharing)
 
 ## Class Google Drive Folder
 
